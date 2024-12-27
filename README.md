@@ -1,12 +1,12 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://ritu-sharma-portfolio.netlify.app/" target="_blank">Ritu.tech</a>
+  <a href="www.jayraj.tech">Jayraj.tech</a>
 </h2>
 <br/>
 
 ## Built With 💖
 
-My personal portfolio <a href="https://ritu-sharma-portfolio.netlify.app/" target="_blank">Ritu.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="www.jayraj.tech" target="_blank">Jayraj.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
